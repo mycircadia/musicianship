@@ -13,9 +13,9 @@ Dadd9 = 554000
 lyrics w/ chords
 ----------------
 
-G 						Cmaj7/G
+G                       Cmaj7/G
 When I think of all the things, you won't remember
-G 						  Cmaj7/G   Em 	  *G   *D 	Cmaj7/G
+G                         Cmaj7/G   Em    *G   *D   Cmaj7/G
 that keep this ember burn bright, through this long december
 
 And I can drink through the night, so I can forget
@@ -24,23 +24,23 @@ the dream I had where you were more, than I knew just yet
 and yet it's just the thing that wont, finally let me quit
 it's like I got bit and your hips, are what keep me sick
 
-G *D Em G		...Em
+G *D Em G           ...Em
 do-dododo do-dododo ...
 
-F#m/A 								  G7	*D 		 Cmaj7/G
+F#m/A                                 G7    *D       Cmaj7/G
 Well I guess it's all the things that never could've been 
-F#m/A 									   Cmaj7/G
+F#m/A                                      Cmaj7/G
 that seduced me more than you ever made me bleed
 
 --c--
-	 Em 							Dadd9
+     Em                             Dadd9
 O-oh but, in the end that's the one thing
-	 Em 							Dadd9
+     Em                             Dadd9
 O-oh but, in the end that's the one thing
 --c--
-	  A7				   Cmaj7/G 	  G7   *D 		 Cmaj7/G
+      A7                   Cmaj7/G     G7   *D        Cmaj7/G
 and i guess it's all these words that I've saved for years
-F#m/A 								  Cmaj7/G
+F#m/A                                 Cmaj7/G
 that seem to fall on your indifferent ears
 
 --c--
@@ -55,23 +55,23 @@ This trying light
 
 Cmaj7/G
 Can't take but for the counterpart
-							G
+                            G
 that is the comfort in your heart
 
-*Em 							   Cmaj7/G 	G
+*Em                                Cmaj7/G  G
 Cause this shiverin question on my quiverin lips
 *Em
 is still alive but dyin drownin
-Cmaj7/G 		 G
+Cmaj7/G          G
 dyin down in the worry
 
-		  *Em 				   Cmaj7/G 	G
+          *Em                  Cmaj7/G  G
 That this shiverin question on quiverin lips
-	*Em 				  Cmaj7/G 				  G
+    *Em               Cmaj7/G                 G
 has finally died down in the winter waters at last
-		 *Em 			   Cmaj7/G 				   G
+         *Em               Cmaj7/G                 G
 oh it's, finally died down in the winter waters at last
-		 *Em 			   Cmaj7/G 				   G
+         *Em               Cmaj7/G                 G
 oh it's, finally died down in the winter waters at last
 
 G *D Em G... G *D Em G
